@@ -1,3 +1,3 @@
 # Smart Device Hub UI
 
-<img alt="Smart Device Hub" src="assets/project-screenshot.png" width="500"/>
+<img alt="Smart Device Hub" src="assets/project-screenshot.png" width="250"/>
