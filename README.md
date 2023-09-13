@@ -1,2 +1,3 @@
 # Smart Device Hub UI
-![](assets/project-screenshot.png|width=100px)
+
+<img alt="Smart Device Hub" src="assets/project-screenshot.png" width="100"/>
